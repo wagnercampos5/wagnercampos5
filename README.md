@@ -41,11 +41,7 @@ Para expandir meu leque de soluções como freelancer, meu planejamento técnico
 
 ## 📈 Estatísticas do GitHub
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wagnercampos5&show_icons=true&theme=radial&include_all_commits=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnercampos5&layout=compact&theme=radial)
+![Status do GitHub](https://github-readme-streak-stats.herokuapp.com/?user=wagnercampos5&theme=radial)
 
 ---
 
