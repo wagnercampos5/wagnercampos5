@@ -1,8 +1,8 @@
 # Olá! Eu sou o Wagner Campos 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e participante do programa **Oracle Next Education (ONE) - G10**, diretamente de Várzea Grande - MT. 
+Sou estudante de **Análise e Desenvolvimento de Sistemas ** e participante do programa **Oracle Next Education (ONE)**, morando em Várzea Grande - MT. 
 
-Venho da área da Educação e Gestão Escolar — uma trajetória que me ensinou muito sobre organização, resolução de problemas e trabalho com pessoas — e hoje estou em transição de carreira para a tecnologia, construindo minha base passo a passo através da prática diária.
+Venho da área da Educação e gestão escolar — uma trajetória que me ensinou muito sobre organização, resolução de problemas e trabalho com pessoas — e hoje estou em transição de carreira para a tecnologia, construindo minha base passo a passo através da prática diária.
 
 ---
 
@@ -42,14 +42,15 @@ Estou focado em consolidar meus fundamentos de programação e desenvolvimento w
 
 ---
 
-### 💻 Projetos de Estudo na Prática
+### 💻 O que você vai encontrar nos meus repositórios
 
-Acredito que a melhor forma de aprender é construindo. Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
+Acredito que a melhor forma de aprender é construindo e documentando o processo. Ao explorar meus repositórios logo abaixo, você encontrará projetos de estudo bem detalhados sobre:
 
-* 🤖 **[Galey-La AI Agent](https://github.com/wagnercampos5)** — Aplicação web de agente inteligente desenvolvida em Python utilizando **LangChain** e publicada na **Streamlit Community Cloud**.
-* 💬 **[HR Buddy](https://github.com/wagnercampos5)** — Chatbot voltado para dúvidas de RH que integra automação de fluxo no **n8n**, modelos de linguagem da **Cohere** e persistência em banco de dados **MySQL**.
-* ⚡ **[API Web com Gemini + FastAPI](https://github.com/wagnercampos5)** — Projeto prático desenvolvido durante imersão na Alura para integrar uma API em Python diretamente à IA do Google.
-* 🌐 **Projetos Front-end & UI/UX** — Desenvolvimento de páginas responsivas e protótipos para fixar HTML5, CSS3, JavaScript e design de interfaces no Figma, incluindo as landing pages **Raza 13**, **MarombaFIT**, um **Clone do Linktree** e protótipo da **Landing Page do Spotify**.
+* 🤖 **Agentes de IA & RAG** — Aplicações práticas em Python utilizando *LangChain*, *LangGraph*, *Streamlit* e integrações com modelos de linguagem (como Gemini e Cohere).
+* ⚙️ **Automações & Back-end** — Fluxos automatizados com *n8n*, chatbots integrados a bancos de dados *MySQL* e APIs construídas com *FastAPI* e *Node.js*.
+* 🌐 **Front-end & UI/UX** — Landing pages responsivas, clones de interfaces e protótipos criados no *Figma* para consolidar os fundamentos de *HTML5*, *CSS3* e *JavaScript*.
+
+> 💡 *Cada repositório conta com um README próprio detalhando o objetivo do projeto, as tecnologias utilizadas e como executá-lo.*
 
 ---
 
@@ -74,4 +75,4 @@ Acredito que a melhor forma de aprender é construindo. Aqui estão alguns dos p
 
 Estou sempre aberto a trocar ideias sobre estudos em programação, automações, IA ou boas práticas de desenvolvimento!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercampos5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/)
