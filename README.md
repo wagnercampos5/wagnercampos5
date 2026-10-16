@@ -75,4 +75,4 @@ Acredito que a melhor forma de aprender é construindo e documentando o processo
 
 Estou sempre aberto a trocar ideias sobre estudos em programação, automações, IA ou boas práticas de desenvolvimento!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercampos5/)
