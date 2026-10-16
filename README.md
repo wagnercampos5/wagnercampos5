@@ -1,6 +1,6 @@
 # Olá! Eu sou o Wagner Campos 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas ** e participante do programa **Oracle Next Education (ONE)**, morando em Várzea Grande - MT. 
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e participante do programa **Oracle Next Education (ONE)**, morando em Várzea Grande - MT. 
 
 Venho da área da Educação e gestão escolar — uma trajetória que me ensinou muito sobre organização, resolução de problemas e trabalho com pessoas — e hoje estou em transição de carreira para a tecnologia, construindo minha base passo a passo através da prática diária.
 
