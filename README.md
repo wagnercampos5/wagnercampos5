@@ -1,4 +1,4 @@
-# Opa, que bom que passou por aqui!
+# Opa, que bom que passou por aqui! :laughing:
 
 Sou Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Full Stack** em formação contínua, focado na prática diária de código, construção de aplicações web funcionais e integração com Inteligência Artificial.
 
@@ -24,8 +24,8 @@ Sou Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Fu
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://stats.justin0u0.com/api?username=wagnercampos5&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" height="160" />
-  <img src="https://stats.justin0u0.com/api/top-langs/?username=wagnercampos5&layout=compact&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wagnercampos5&theme=tokyonight&hide_border=true" alt="Sequência no GitHub" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wagnercampos5&theme=tokyonight" alt="Resumo do Perfil" height="165" />
 </div>
 
 ---
