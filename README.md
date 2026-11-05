@@ -1,6 +1,6 @@
-# Opa, bem-vind@!
+# Opa, que bom que passou por aqui!
 
-Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Full Stack** em formação contínua, focado na prática diária de código, construção de aplicações web funcionais e integração com Inteligência Artificial.
+Sou Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Full Stack** em formação contínua, focado na prática diária de código, construção de aplicações web funcionais e integração com Inteligência Artificial.
 
 ---
 
