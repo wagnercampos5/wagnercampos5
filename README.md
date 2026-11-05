@@ -24,8 +24,8 @@ Sou Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Fu
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wagnercampos5&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wagnercampos5&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wagnercampos5&theme=tokyonight" alt="Resumo do Perfil" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wagnercampos5&theme=tokyonight" alt="Linguagens mais Utilizadas" height="165" />
 </div>
 
 ---
