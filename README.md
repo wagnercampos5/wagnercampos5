@@ -8,7 +8,7 @@ Sou Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Fu
 
 - **Front-end:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React, React Native
 - **Back-end & DB:** Node.js, Express, Python, SQL
-- **IA & Automações:** LangChain, LangGraph, Streamlit, n8n
+- **IA & Automações:** LangChain, LangGraph, Streamlit, n8n, Lovable
 - **Ferramentas:** Git, GitHub, VS Code, Figma, Linux/WSL
 
 ---
@@ -24,11 +24,12 @@ Sou Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Fu
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wagnercampos5&theme=tokyonight"/>
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wagnercampos5&theme=tokyonight"/>
+  <img height="165px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wagnercampos5&theme=tokyonight"/>
+  <img height="165px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wagnercampos5&theme=tokyonight"/>
 </div>
 <div align="center">
-  <img height="165em" src="https://streak-stats.demolab.com?user=wagnercampos5&theme=tokyonight"/>
+  <img height="165px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wagnercampos5&theme=tokyonight&utcOffset=-4"/>
+  <img height="165px" src="https://streak-stats.demolab.com?user=wagnercampos5&theme=tokyonight"/>
 </div>
 
 ---
