@@ -9,7 +9,7 @@ Sou Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Fu
 - **Front-end:** HTML5, CSS3, JavaScript (ES6+), TypeScript, React, React Native
 - **Back-end & DB:** Node.js, Express, Python, SQL
 - **IA & Automações:** LangChain, LangGraph, Streamlit, n8n, Lovable
-- **Ferramentas:** Git, GitHub, VS Code, Figma, Linux/WSL
+- **Ferramentas:** Git, GitHub, VS Code, Antigravity IDE, Figma, Linux/WSL
 
 ---
 
