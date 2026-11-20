@@ -34,6 +34,10 @@ Sou Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Fu
 
 ---
 
+<img width="640" height="360" alt="wagnercampos5" src="https://github.com/user-attachments/assets/e7da21ea-b7b3-478a-bbf0-640072267fab" />
+
+---
+
 ### 📬 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagnercampos5)
