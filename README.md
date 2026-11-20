@@ -1,5 +1,7 @@
 # Opa, que bom que passou por aqui! :laughing:
 
+
+
 Sou Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Full Stack** em formação contínua, focado na prática diária de código, construção de aplicações web funcionais e integração com Inteligência Artificial.
 
 ---
@@ -21,6 +23,12 @@ Sou Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Fu
 
 ---
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0ed5c1b3-78f6-479b-9142-3efea2c1c028" width="100%" alt="Banner Dev Wagner" />
+</div>
+
+---
+
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
@@ -31,10 +39,6 @@ Sou Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Fu
   <img height="165px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wagnercampos5&theme=tokyonight&utcOffset=-4"/>
   <img height="165px" src="https://streak-stats.demolab.com?user=wagnercampos5&theme=tokyonight"/>
 </div>
-
----
-
-<img width="640" height="360" alt="wagnercampos5" src="https://github.com/user-attachments/assets/e7da21ea-b7b3-478a-bbf0-640072267fab" />
 
 ---
 
